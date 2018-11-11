@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Temp Converter</string>
+    <string name="page2_title">About App</string>
+    <string name="page_title">Temp Converter</string>
+    <string name="hint_text"> Please Enter the Temperature</string>
+    <string name="celsius_button">Cel</string>
+    <string name="f_button">Far</string>
+    <string name="exit_button">Exit</string>
+    <string name="positive">yes</string>
+    <string name="negative">no</string>
+    <string name="Alert_title">exit</string>
+    <string name="Alert_message">are you sure you want to exit?</string>
+    <string name="toolbar_menu_item1">About App</string>
+    <string name="toolbar_menu_item2">Exit</string>
+    <string name="about_app">this is a simple application for converting temperature from celsius to fahrenheit and vice versa</string>
+</resources>
